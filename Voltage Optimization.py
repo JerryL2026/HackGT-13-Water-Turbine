@@ -74,9 +74,7 @@ time.sleep(SETTLE_TIME)
 
 current_voltage = read_voltage()
 
-print("========================")
-print("  TURBINE OPTIMIZER")
-print("========================")
+print("TURBINE OPTIMIZER")
 print("Starting angle:", angle)
 print("Starting voltage:", round(current_voltage, 3), "V")
 
