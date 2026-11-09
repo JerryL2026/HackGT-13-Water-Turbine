@@ -13,7 +13,7 @@ How the Optimization Logic Works:
 
 # Project Context
 
-This project was conceived as part of HackGT 13, a 48-hour hackathon. Our team comprised members from:
+This project was conceived as part of HackGT 13, a 36-hour hackathon. Our team comprised members from:
 - Computer Science
 - Mechanical Engineering
 - Environmental Engineering
